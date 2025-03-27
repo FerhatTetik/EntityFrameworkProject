@@ -1,0 +1,12 @@
+C:\Users\cemal\source\repos\Egitim301\Egitim301.EntityLayer\bin\Debug\Egitim301.EntityLayer.dll
+C:\Users\cemal\source\repos\Egitim301\Egitim301.EntityLayer\bin\Debug\Egitim301.EntityLayer.pdb
+C:\Users\cemal\source\repos\Egitim301\Egitim301.EntityLayer\obj\Debug\Egitim301.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\cemal\source\repos\Egitim301\Egitim301.EntityLayer\obj\Debug\Egitim301.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\cemal\source\repos\Egitim301\Egitim301.EntityLayer\obj\Debug\Egitim301.EntityLayer.dll
+C:\Users\cemal\source\repos\Egitim301\Egitim301.EntityLayer\obj\Debug\Egitim301.EntityLayer.pdb
+C:\Users\cemal\source\repos\Egitim301\Egitim301.EntityLayer\bin\Debug\Egitim301.EntityLayer.dll.config
+C:\Users\cemal\source\repos\Egitim301\Egitim301.EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\cemal\source\repos\Egitim301\Egitim301.EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cemal\source\repos\Egitim301\Egitim301.EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\cemal\source\repos\Egitim301\Egitim301.EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cemal\source\repos\Egitim301\Egitim301.EntityLayer\obj\Debug\Egitim30.394FE4A7.Up2Date

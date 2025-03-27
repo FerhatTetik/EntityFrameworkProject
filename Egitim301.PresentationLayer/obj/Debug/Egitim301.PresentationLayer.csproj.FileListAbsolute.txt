@@ -1,0 +1,9 @@
+C:\Users\cemal\source\repos\Egitim301\Egitim301.PresentationLayer\bin\Debug\Egitim301.PresentationLayer.exe.config
+C:\Users\cemal\source\repos\Egitim301\Egitim301.PresentationLayer\bin\Debug\Egitim301.PresentationLayer.exe
+C:\Users\cemal\source\repos\Egitim301\Egitim301.PresentationLayer\bin\Debug\Egitim301.PresentationLayer.pdb
+C:\Users\cemal\source\repos\Egitim301\Egitim301.PresentationLayer\obj\Debug\Egitim301.PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\cemal\source\repos\Egitim301\Egitim301.PresentationLayer\obj\Debug\Egitim301.PresentationLayer.Properties.Resources.resources
+C:\Users\cemal\source\repos\Egitim301\Egitim301.PresentationLayer\obj\Debug\Egitim301.PresentationLayer.csproj.GenerateResource.cache
+C:\Users\cemal\source\repos\Egitim301\Egitim301.PresentationLayer\obj\Debug\Egitim301.PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\cemal\source\repos\Egitim301\Egitim301.PresentationLayer\obj\Debug\Egitim301.PresentationLayer.exe
+C:\Users\cemal\source\repos\Egitim301\Egitim301.PresentationLayer\obj\Debug\Egitim301.PresentationLayer.pdb
