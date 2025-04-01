@@ -13,3 +13,4 @@ C:\Users\cemal\source\repos\Egitim301\Egitim301.EFProject\bin\Debug\EntityFramew
 C:\Users\cemal\source\repos\Egitim301\Egitim301.EFProject\obj\Debug\Egitim30.A9F61054.Up2Date
 C:\Users\cemal\source\repos\Egitim301\Egitim301.EFProject\obj\Debug\Egitim301.EFProject.exe
 C:\Users\cemal\source\repos\Egitim301\Egitim301.EFProject\obj\Debug\Egitim301.EFProject.pdb
+C:\Users\cemal\source\repos\Egitim301\Egitim301.EFProject\obj\Debug\Egitim301.EFProject.FermLocation.resources
