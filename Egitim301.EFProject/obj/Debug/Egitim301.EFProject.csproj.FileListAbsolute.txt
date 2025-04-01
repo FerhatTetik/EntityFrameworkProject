@@ -1,0 +1,15 @@
+C:\Users\cemal\source\repos\Egitim301\Egitim301.EFProject\obj\Debug\Egitim301.EFProject.csproj.AssemblyReference.cache
+C:\Users\cemal\source\repos\Egitim301\Egitim301.EFProject\obj\Debug\Egitim301.EFProject.Form1.resources
+C:\Users\cemal\source\repos\Egitim301\Egitim301.EFProject\obj\Debug\Egitim301.EFProject.Properties.Resources.resources
+C:\Users\cemal\source\repos\Egitim301\Egitim301.EFProject\obj\Debug\Egitim301.EFProject.csproj.GenerateResource.cache
+C:\Users\cemal\source\repos\Egitim301\Egitim301.EFProject\obj\Debug\Egitim301.EFProject.csproj.CoreCompileInputs.cache
+C:\Users\cemal\source\repos\Egitim301\Egitim301.EFProject\bin\Debug\Egitim301.EFProject.exe.config
+C:\Users\cemal\source\repos\Egitim301\Egitim301.EFProject\bin\Debug\Egitim301.EFProject.exe
+C:\Users\cemal\source\repos\Egitim301\Egitim301.EFProject\bin\Debug\Egitim301.EFProject.pdb
+C:\Users\cemal\source\repos\Egitim301\Egitim301.EFProject\bin\Debug\EntityFramework.dll
+C:\Users\cemal\source\repos\Egitim301\Egitim301.EFProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cemal\source\repos\Egitim301\Egitim301.EFProject\bin\Debug\EntityFramework.xml
+C:\Users\cemal\source\repos\Egitim301\Egitim301.EFProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cemal\source\repos\Egitim301\Egitim301.EFProject\obj\Debug\Egitim30.A9F61054.Up2Date
+C:\Users\cemal\source\repos\Egitim301\Egitim301.EFProject\obj\Debug\Egitim301.EFProject.exe
+C:\Users\cemal\source\repos\Egitim301\Egitim301.EFProject\obj\Debug\Egitim301.EFProject.pdb

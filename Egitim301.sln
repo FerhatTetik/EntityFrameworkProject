@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Egitim301.EntityLayer", "Egitim301.EntityLayer\Egitim301.EntityLayer.csproj", "{5048822B-236F-4900-AF7F-3FBE363DBFAA}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Egitim301.BusinessLayer", "Egitim301.BusinnesLayer\Egitim301.BusinessLayer.csproj", "{4C0D5E49-3CC1-4305-B902-FB5EF3BEBCA0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Egitim301.PresentationLayer", "Egitim301.PresentationLayer\Egitim301.PresentationLayer.csproj", "{4C5171FE-2DE9-4BD2-ABD0-E4A24E13064C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Egitim301.EFProject", "Egitim301.EFProject\Egitim301.EFProject.csproj", "{53DBFB27-299C-43E7-82C8-940ADA66208B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{4C5171FE-2DE9-4BD2-ABD0-E4A24E13064C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C5171FE-2DE9-4BD2-ABD0-E4A24E13064C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C5171FE-2DE9-4BD2-ABD0-E4A24E13064C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53DBFB27-299C-43E7-82C8-940ADA66208B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53DBFB27-299C-43E7-82C8-940ADA66208B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53DBFB27-299C-43E7-82C8-940ADA66208B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53DBFB27-299C-43E7-82C8-940ADA66208B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

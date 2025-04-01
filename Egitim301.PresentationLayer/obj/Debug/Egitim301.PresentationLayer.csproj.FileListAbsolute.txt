@@ -7,3 +7,10 @@ C:\Users\cemal\source\repos\Egitim301\Egitim301.PresentationLayer\obj\Debug\Egit
 C:\Users\cemal\source\repos\Egitim301\Egitim301.PresentationLayer\obj\Debug\Egitim301.PresentationLayer.csproj.CoreCompileInputs.cache
 C:\Users\cemal\source\repos\Egitim301\Egitim301.PresentationLayer\obj\Debug\Egitim301.PresentationLayer.exe
 C:\Users\cemal\source\repos\Egitim301\Egitim301.PresentationLayer\obj\Debug\Egitim301.PresentationLayer.pdb
+C:\Users\cemal\source\repos\Egitim301\Egitim301.PresentationLayer\bin\Debug\Egitim301.BusinnesLayer.dll
+C:\Users\cemal\source\repos\Egitim301\Egitim301.PresentationLayer\bin\Debug\EntityFramework.dll
+C:\Users\cemal\source\repos\Egitim301\Egitim301.PresentationLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cemal\source\repos\Egitim301\Egitim301.PresentationLayer\bin\Debug\Egitim301.BusinnesLayer.pdb
+C:\Users\cemal\source\repos\Egitim301\Egitim301.PresentationLayer\bin\Debug\EntityFramework.xml
+C:\Users\cemal\source\repos\Egitim301\Egitim301.PresentationLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cemal\source\repos\Egitim301\Egitim301.PresentationLayer\obj\Debug\Egitim30.6B2CF7FC.Up2Date

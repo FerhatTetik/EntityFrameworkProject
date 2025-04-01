@@ -17,5 +17,6 @@ namespace Egitim301.EFProject
         public int CustomerId { get; set; }
         public string CustomerName { get; set; }
         public string CustomerSurname { get; set; }
+        public Nullable<decimal> CustomerBalance { get; set; }
     }
 }
