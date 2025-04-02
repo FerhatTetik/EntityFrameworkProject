@@ -55,7 +55,6 @@ namespace Egitim301.EFProject
         private void btnAdd_Click(object sender, EventArgs e)
         {
            
-            MessageBox.Show("Butona basıldı!");
             if (string.IsNullOrWhiteSpace(txtCity.Text) || string.IsNullOrWhiteSpace(txtCountry.Text))
             {
                 MessageBox.Show("Şehir ve ülke bilgileri boş olamaz!");

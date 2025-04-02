@@ -64,6 +64,11 @@
     <Compile Include="Customer.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
+    <Compile Include="EgitimKampiEFTravelDbDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EgitimKampiEFTravelDbDataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Include="FermLocation.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -75,6 +80,12 @@
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmStatistics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmStatistics.Designer.cs">
+      <DependentUpon>FrmStatistics.cs</DependentUpon>
     </Compile>
     <Compile Include="Guide.cs">
       <DependentUpon>Model1.tt</DependentUpon>
@@ -108,6 +119,9 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FrmStatistics.resx">
+      <DependentUpon>FrmStatistics.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -121,6 +135,17 @@
       <Generator>EntityModelCodeGenerator</Generator>
       <LastGenOutput>Model1.Designer.cs</LastGenOutput>
     </EntityDeploy>
+    <None Include="EgitimKampiEFTravelDbDataSet.xsc">
+      <DependentUpon>EgitimKampiEFTravelDbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="EgitimKampiEFTravelDbDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>EgitimKampiEFTravelDbDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="EgitimKampiEFTravelDbDataSet.xss">
+      <DependentUpon>EgitimKampiEFTravelDbDataSet.xsd</DependentUpon>
+    </None>
     <None Include="Model1.edmx.diagram">
       <DependentUpon>Model1.edmx</DependentUpon>
     </None>

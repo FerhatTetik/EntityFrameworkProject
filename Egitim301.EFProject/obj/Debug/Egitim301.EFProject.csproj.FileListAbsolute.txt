@@ -14,3 +14,4 @@ C:\Users\cemal\source\repos\Egitim301\Egitim301.EFProject\obj\Debug\Egitim30.A9F
 C:\Users\cemal\source\repos\Egitim301\Egitim301.EFProject\obj\Debug\Egitim301.EFProject.exe
 C:\Users\cemal\source\repos\Egitim301\Egitim301.EFProject\obj\Debug\Egitim301.EFProject.pdb
 C:\Users\cemal\source\repos\Egitim301\Egitim301.EFProject\obj\Debug\Egitim301.EFProject.FermLocation.resources
+C:\Users\cemal\source\repos\Egitim301\Egitim301.EFProject\obj\Debug\Egitim301.EFProject.FrmStatistics.resources

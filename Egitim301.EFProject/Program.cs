@@ -16,7 +16,7 @@ namespace Egitim301.EFProject
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FermLocation());
+            Application.Run(new FrmStatistics());
         }
     }
 }
