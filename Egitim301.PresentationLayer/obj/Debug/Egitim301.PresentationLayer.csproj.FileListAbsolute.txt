@@ -14,3 +14,7 @@ C:\Users\cemal\source\repos\Egitim301\Egitim301.PresentationLayer\bin\Debug\Egit
 C:\Users\cemal\source\repos\Egitim301\Egitim301.PresentationLayer\bin\Debug\EntityFramework.xml
 C:\Users\cemal\source\repos\Egitim301\Egitim301.PresentationLayer\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\cemal\source\repos\Egitim301\Egitim301.PresentationLayer\obj\Debug\Egitim30.6B2CF7FC.Up2Date
+C:\Users\cemal\source\repos\Egitim301\Egitim301.PresentationLayer\bin\Debug\Egitim301.EntityLayer.dll
+C:\Users\cemal\source\repos\Egitim301\Egitim301.PresentationLayer\bin\Debug\Egitim301.EntityLayer.pdb
+C:\Users\cemal\source\repos\Egitim301\Egitim301.PresentationLayer\bin\Debug\Egitim301.EntityLayer.dll.config
+C:\Users\cemal\source\repos\Egitim301\Egitim301.PresentationLayer\obj\Debug\Egitim301.PresentationLayer.FrmCategory.resources
