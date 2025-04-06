@@ -29,7 +29,7 @@ namespace Egitim301.BusinnesLayer.Concreate
         {
             return _categoryDal.GetById(id);
         }
-        public List<Category> TGetList()
+        public List<Category> TGetAll()
         {
             return _categoryDal.GetAll();
         }

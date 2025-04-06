@@ -11,7 +11,7 @@ namespace Egitim301.BusinnesLayer.Abstract
         void TInsert(T entity);
         void TDelete(T entity);
         void TUpdate(T entity);
-        List<T> TGetList();
+        List<T> TGetAll();
         T TGetById(int id);
     }
     

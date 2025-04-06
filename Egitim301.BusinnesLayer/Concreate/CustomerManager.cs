@@ -1,4 +1,5 @@
 ﻿using Egitim301.BusinnesLayer.Abstract;
+using Egitim301.DataAccsessLayer.Abstract;
 using Egitim301.EntityLayer.Concrete;
 using System;
 using System.Collections.Generic;
@@ -10,36 +11,33 @@ namespace Egitim301.BusinnesLayer.Concreate
 {
     class CustomerManager : ICustomerService
     {
+        private readonly ICustomerDal _customerDal;
+        public CustomerManager(ICustomerDal customerDal)
+        {
+            _customerDal = customerDal;
+        }
         public void TInsert(Customer entity)
         {
-            if (entity.CustomerName.Length <= 2 && entity.CustomerName != "") // Arttırılabilir.
-            {
-                throw new Exception("Müşteri adı boş olamaz ve en az 2 karakter olmalıdır.");
-            }
-            else
-            {
-                // Müşteri ekleme işlemi
-                // Örnek: _customerRepository.Add(entity);
-            }
+            _customerDal.Insert(entity);
         }
         public void TDelete(Customer entity)
         {
-            throw new NotImplementedException();
+            _customerDal.Delete(entity);
         }
 
         public Customer TGetById(int id)
         {
-            throw new NotImplementedException();
+            return _customerDal.GetById(id);
         }
 
-        public List<Customer> TGetList()
+        public List<Customer> TGetAll()
         {
-            throw new NotImplementedException();
+            return _customerDal.GetAll();
         }
 
         public void TUpdate(Customer entity)
         {
-            throw new NotImplementedException();
+            _customerDal.Update(entity);
         }
     }
 }

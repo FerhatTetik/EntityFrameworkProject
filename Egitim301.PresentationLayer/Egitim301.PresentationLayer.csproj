@@ -95,6 +95,14 @@
       <Project>{4c0d5e49-3cc1-4305-b902-fb5ef3bebca0}</Project>
       <Name>Egitim301.BusinessLayer</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Egitim301.DataAccsessLayer\Egitim301.DataAccsessLayer.csproj">
+      <Project>{fa7468b2-b62b-4c49-9c4e-3f5c818b3417}</Project>
+      <Name>Egitim301.DataAccsessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Egitim301.EntityLayer\Egitim301.EntityLayer.csproj">
+      <Project>{5048822b-236f-4900-af7f-3fbe363dbfaa}</Project>
+      <Name>Egitim301.EntityLayer</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

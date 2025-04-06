@@ -1,4 +1,5 @@
 ﻿using Egitim301.BusinnesLayer.Abstract;
+using Egitim301.DataAccsessLayer.Abstract;
 using Egitim301.EntityLayer.Concrete;
 using System;
 using System.Collections.Generic;
@@ -10,6 +11,11 @@ namespace Egitim301.BusinnesLayer.Concreate
 {
     public class ProductManager : IProductService
     {
+        private readonly IProductDal _productDal;
+        public ProductManager(IProductDal productDal)
+        {
+            _productDal = productDal;
+        }
         public void TInsert(Product entity)
         {
             throw new NotImplementedException();
@@ -17,22 +23,22 @@ namespace Egitim301.BusinnesLayer.Concreate
 
         public void TDelete(Product entity)
         {
-            throw new NotImplementedException();
+            _productDal.Delete(entity);
         }
 
         public Product TGetById(int id)
         {
-            throw new NotImplementedException();
+            return _productDal.GetById(id);
         }
 
-        public List<Product> TGetList()
+        public List<Product> TGetAll()
         {
-            throw new NotImplementedException();
+            return _productDal.GetAll();
         }
 
         public void TUpdate(Product entity)
         {
-            throw new NotImplementedException();
+            _productDal.Update(entity);
         }
     }
 }

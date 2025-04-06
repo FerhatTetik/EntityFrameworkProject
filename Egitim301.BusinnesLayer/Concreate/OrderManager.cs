@@ -1,4 +1,5 @@
 ﻿using Egitim301.BusinnesLayer.Abstract;
+using Egitim301.DataAccsessLayer.Abstract;
 using Egitim301.EntityLayer.Concrete;
 using System;
 using System.Collections.Generic;
@@ -8,31 +9,36 @@ using System.Threading.Tasks;
 
 namespace Egitim301.BusinnesLayer.Concreate
 {
-    public class OrderManager : Abstract.IOrderService
+    public class OrderManager : IOrderService
     {
+        private readonly IOrderDal _orderDal;
+        public OrderManager(IOrderDal orderDal)
+        {
+            _orderDal = orderDal;
+        }
         public void TInsert(Order entity)
         {
-            throw new NotImplementedException();
+            _orderDal.Insert(entity);
         }
 
         public void TDelete(Order entity)
         {
-            throw new NotImplementedException();
+            _orderDal.Delete(entity);
         }
 
         public Order TGetById(int id)
         {
-            throw new NotImplementedException();
+            return _orderDal.GetById(id);
         }
 
-        public List<Order> TGetList()
+        public List<Order> TGetAll()
         {
-            throw new NotImplementedException();
+            return _orderDal.GetAll();
         }
 
         public void TUpdate(Order entity)
         {
-            throw new NotImplementedException();
+            _orderDal.Update(entity);
         }
     }
 }

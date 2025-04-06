@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Egitim301.BusinnesLayer.Abstract
 {
-    interface ICategoryService : IGenericService<Category>
+    public interface ICategoryService : IGenericService<Category>
     {
     }
 }
