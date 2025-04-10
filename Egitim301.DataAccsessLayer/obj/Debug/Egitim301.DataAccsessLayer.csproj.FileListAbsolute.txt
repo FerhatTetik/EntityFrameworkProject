@@ -16,3 +16,4 @@ C:\Users\cemal\source\repos\Egitim301\Egitim301.DataAccsessLayer\obj\Debug\Egiti
 C:\Users\cemal\source\repos\Egitim301\Egitim301.DataAccsessLayer\obj\Debug\Egitim301.DataAccsessLayer.Migrations.mig1.resources
 C:\Users\cemal\source\repos\Egitim301\Egitim301.DataAccsessLayer\obj\Debug\Egitim301.DataAccsessLayer.csproj.GenerateResource.cache
 C:\Users\cemal\source\repos\Egitim301\Egitim301.DataAccsessLayer\obj\Debug\Egitim301.DataAccsessLayer.Migrations.Update_CategoryStatusType.resources
+C:\Users\cemal\source\repos\Egitim301\Egitim301.DataAccsessLayer\obj\Debug\Egitim301.DataAccsessLayer.Migrations.InitialCreate.resources

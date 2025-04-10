@@ -18,7 +18,7 @@ namespace Egitim301.BusinnesLayer.Concreate
         }
         public void TInsert(Product entity)
         {
-            throw new NotImplementedException();
+            _productDal.Insert(entity);
         }
 
         public void TDelete(Product entity)
