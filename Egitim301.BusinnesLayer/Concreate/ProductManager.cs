@@ -40,5 +40,10 @@ namespace Egitim301.BusinnesLayer.Concreate
         {
             _productDal.Update(entity);
         }
+
+        public List<Product> GetProductListWithCategoryName()
+        {
+            return _productDal.GetProductListWithCategoryName();
+        }
     }
 }

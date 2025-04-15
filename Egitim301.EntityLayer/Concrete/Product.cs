@@ -16,5 +16,6 @@ namespace Egitim301.EntityLayer.Concrete
         public int CategoryId { get; set; }
         public virtual Category Category { get; set; }
         public List<Order> Orders { get; set; }
+        public string CategoryName => Category?.CategoryName;
     }
 }

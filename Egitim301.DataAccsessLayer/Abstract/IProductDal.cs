@@ -9,6 +9,6 @@ namespace Egitim301.DataAccsessLayer.Abstract
 {
     public interface IProductDal : IGenericDal<Product>
     {
-
+        List<Product> GetProductListWithCategoryName();
     }
 }

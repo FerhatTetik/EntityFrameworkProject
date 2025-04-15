@@ -9,5 +9,6 @@ namespace Egitim301.BusinnesLayer.Abstract
 {
     public interface IProductService: IGenericService<Product>
     {
+        List<Product> GetProductListWithCategoryName();
     }
 }
