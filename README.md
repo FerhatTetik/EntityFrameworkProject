@@ -21,6 +21,38 @@ Proje aşağıdaki katmanlardan oluşmaktadır:
 - Visual Studio 2022 veya üzeri
 - SQL Server
 
+### Veritabanı Bağlantı Ayarları
+
+Projede veritabanı bağlantı ayarları aşağıdaki dosyalarda yapılandırılmıştır:
+
+1. **Egitim301.PresentationLayer/App.config**:
+```xml
+<connectionStrings>
+    <add name="KampContext" connectionString="Data Source=.;initial Catalog=EgitimKampi301Db;Integrated Security=True" providerName="System.Data.SqlClient" />
+</connectionStrings>
+```
+
+2. **Egitim301.EFProject/App.config**:
+```xml
+<connectionStrings>
+    <add name="EgitimKampiEFTravelDbEntities" connectionString="metadata=res://*/Model1.csdl|res://*/Model1.ssdl|res://*/Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=.;initial catalog=EgitimKampiEFTravelDb;integrated security=True;trustservercertificate=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" providerName="System.Data.EntityClient" />
+    <add name="Egitim301.EFProject.Properties.Settings.EgitimKampiEFTravelDbConnectionString" connectionString="Data Source=.;Initial Catalog=EgitimKampiEFTravelDb;Integrated Security=True;TrustServerCertificate=True" providerName="System.Data.SqlClient" />
+</connectionStrings>
+```
+
+3. **Egitim301.EfExampleMiniProject/App.config**:
+```xml
+<connectionStrings>
+    <add name="EgitimKampiEFTravelDbEntities" connectionString="metadata=res://*/Model1.csdl|res://*/Model1.ssdl|res://*/Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=.;initial catalog=EgitimKampiEFTravelDb;integrated security=True;trustservercertificate=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" providerName="System.Data.EntityClient" />
+    <add name="Egitim301.EFProject.Properties.Settings.EgitimKampiEFTravelDbConnectionString" connectionString="Data Source=.;Initial Catalog=EgitimKampiEFTravelDb;Integrated Security=True;TrustServerCertificate=True" providerName="System.Data.SqlClient" />
+</connectionStrings>
+```
+
+Veritabanı bağlantısını değiştirmek için:
+1. `Data Source=.` kısmını kendi SQL Server instance'ınızın adı ile değiştirin
+2. `initial Catalog` veya `Initial Catalog` değerlerini kendi veritabanı adlarınızla değiştirin
+3. Eğer SQL Server Authentication kullanıyorsanız, `Integrated Security=True` yerine kullanıcı adı ve şifre bilgilerinizi ekleyin
+
 ### Kurulum
 
 1. Projeyi klonlayın:
@@ -64,6 +96,6 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ## 📧 İletişim
 
-Proje Sahibi - [@your-username](https://github.com/your-username)
+Proje Sahibi - [@Ferhat Tetik](https://github.com/FerhatTetik)
 
 Proje Linki: [https://github.com/your-username/Egitim301](https://github.com/your-username/Egitim301)
