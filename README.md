@@ -21,7 +21,8 @@ Proje aşağıdaki katmanlardan oluşmaktadır:
 - Visual Studio 2022 veya üzeri
 - SQL Server
 
-### Veritabanı Bağlantı Ayarları
+### Veritabanı Bağlantı Ayarları 
+    .
 
 Projede veritabanı bağlantı ayarları aşağıdaki dosyalarda yapılandırılmıştır:
 
